@@ -53,7 +53,7 @@ export default function Home() {
             Read our docs
           </a>
         </div>
-      <Button>Meu botão shadcd</Button>
+      <Button>Meu botão shadcn</Button>
       <Calendar />
       
       </main>
